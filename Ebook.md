@@ -20,7 +20,7 @@
 
 > ℹ️ **NOTA:** Este repositório foi desenvolvido por **Rhuan Quadros** durante um projeto educacional utilizando ferramentas de Inteligência Artificial. Todo o conteúdo textual foi gerado por prompts customizados, e a capa foi criada através da **Sora**, modelo de geração de imagens da OpenAI.
 
-📕 [Clique aqui para ler o PDF gerado](#) <!-- Coloque o link correto aqui quando tiver -->
+📕 [Clique aqui para ler o PDF gerado](https://github.com/okrhuan/Codes_DIO_Java_AI/blob/main/output/DIO.pdf) <!-- Coloque o link correto aqui quando tiver -->
 
 ## 💻 Tecnologias utilizadas no projeto
 
