@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+<img width="100" src="output/assets/PlaywrightLogo.png" alt="PlaywrightLogo">
 </p>
 
 <p align="center">
@@ -11,8 +11,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
-    width="400"  
+<img width="400" src="output/assets/roboDIO.png" alt="Robo DIO">
 />
 </p>
 
